@@ -1,0 +1,10 @@
+#locals 
+.terraform*
+
+#state
+*.tfstate
+*.tfstate.*
+
+#variables
+.tfvars
+
